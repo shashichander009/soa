@@ -13,18 +13,18 @@ This means we have to break down our entire application into different component
 
 For example, our project can be divided into the following services. 
 
-#### Log In/Sign-Up 
+#### 1. Log In/Sign-Up 
 We can create an independent service for user Login and SignUp Management. It will be similar to Facebook or Google login service. 
 
-#### Payments
+#### 2. Payments
 Payment management can be an independent service which will be similar to PayPal etc. 
 
-#### Course Management
+#### 3. Course Management
 This service will take care of course addition and deletion. 
 
 ### Principles of SOA 
 
-While creating these services, we have to take care of these principles
+While creating these services, we have to take care of these principles -
 
 #### Abstraction: 
 They should follow this OOPs concept where we don't have to worry about the internal logic of this service. We will only worry about what this service does. For example, We just have to know what Payment service does but not worry about internal logic. 
