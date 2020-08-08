@@ -5,7 +5,7 @@ After reviewing the MockBank project for scaling issues, I have come to the conc
 
 ### Service-Oriented Architecture 
 
-According to Wikipedia, 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture), 
 
 >Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network. 
 
@@ -52,4 +52,7 @@ Once we have broken down our project into different services, we can easily inte
 ## References
 
 
-[https://www.geeksforgeeks.org/service-oriented-architecture/](https://www.geeksforgeeks.org/service-oriented-architecture/).
+[https://www.geeksforgeeks.org/service-oriented-architecture/](https://www.geeksforgeeks.org/service-oriented-architecture/)
+
+
+[Service-Oriented Architecture Youtube Video](https://www.youtube.com/watch?v=_dFJOSR-aFs/)
