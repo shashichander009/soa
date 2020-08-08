@@ -1,7 +1,7 @@
 
 
 ### Introduction 
-After reviewing the MockBank project for scaling issues, I have come to the confusion that we have to move from Monolithic Architecture to Service Oriented Architecture. In this report, I will share the basic information about this architecture and how we can apply that to our Project. 
+After reviewing the MockBank project for scaling issues, I have come to the conclusion that we have to move from Monolithic Architecture to Service Oriented Architecture. In this report, I will share the basic information about this architecture and how we can apply that to our project. 
 
 ### Service-Oriented Architecture 
 
@@ -11,7 +11,7 @@ According to Wikipedia,
 
 This means we have to break down our entire application into different components called services. These components will interact with each other using a standard communication protocol. 
 
-For example, Our project can be divided into the following services. 
+For example, our project can be divided into the following services. 
 
 #### Log In/Sign-Up 
 We can create an independent service for user Login and SignUp Management. It will be similar to Facebook or Google login service. 
