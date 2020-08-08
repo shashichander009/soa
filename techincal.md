@@ -47,7 +47,7 @@ Every service needs to have a great
 description document which can help it be easily discovered. 
 
 ## Advantages
-Once we have broken down our project into different services, we can easily integrate them over a standard communication protocol. This approach will help us in scaling our services without much difficulty. 
+Once we have broken down our project into different services, we can easily integrate them over a standard communication protocol. This approach will help us in scaling our project without much difficulty. 
 
 ## References
 
